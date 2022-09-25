@@ -2,3 +2,9 @@
 This code creates the character Pacman from an old videogame that was in many different videogame systems. 
 It can create various amounts of Pacmans with a click of a button, and when the "start game" button is pressed the Pacmans will start to wonder the screen.
 However, they are limited to the boundaries of the screen.
+
+
+<!-- LICENSE -->
+## License
+
+Distributed by MIT License. See "LICENSE" for more information.
